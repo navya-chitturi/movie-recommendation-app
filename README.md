@@ -48,15 +48,21 @@ pip install streamlit
  
 ---
 
-### Run the App
+## Run the App
 ```bash
 streamlit run app.py
 ```
+
 ---
 
-### Customization Tips
+## Customization Tips
 - Change the background image URL inside the st.markdown() CSS block
 
 - Add more users and movies inside the user_recommendations dictionary
 
 - You can even extend it to use a CSV or a recommendation model later
+
+---
+## Live Demo
+
+👉 [Click here to view the Movie Recommendation App](https://your-app-url.streamlit.app)
