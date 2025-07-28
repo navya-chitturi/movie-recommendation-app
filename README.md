@@ -18,22 +18,22 @@ This app gives personalized movie recommendations to 5 different users, displayi
 ## Demo
 
 ### Homepage
-![Homepage](assets/homepage.png)
+![Homepage](homepage.png)
 
 ### User 1 Recommendations
-![User 1](assets/user1-recommendation.png)
+![User 1](user1-recommendation.png)
 
 ### User 2 Recommendations
-![User 2](assets/user2-recommendation.png)
+![User 2](user2-recommendation.png)
 
 ### User 3 Recommendations
-![User 3](assets/user3-recommendation.png)
+![User 3](user3-recommendation.png)
 
 ### User 4 Recommendations
-![User 4](assets/user4-recommendation.png)
+![User 4](user4-recommendation.png)
 
 ### User 5 Recommendations
-![User 5](assets/user5-recommendation.png)
+![User 5](user5-recommendation.png)
 
 
 ---
