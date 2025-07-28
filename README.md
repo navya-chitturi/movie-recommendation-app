@@ -65,4 +65,4 @@ streamlit run app.py
 ---
 ## Live Demo
 
-👉 [Click here to view the Movie Recommendation App](https://your-app-url.streamlit.app)
+👉 [Click here to view the Movie Recommendation App](https://http://localhost:8501/)
