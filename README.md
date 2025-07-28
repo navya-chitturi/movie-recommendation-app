@@ -65,4 +65,5 @@ streamlit run app.py
 ---
 ## Live Demo
 
-[👉 [Click here to view the Movie Recommendation App](https://http://localhost:8501/)](https://navya-chitturi-movie-recommendation-app.streamlit.app)
+ [Click here to view the live app](https://movie-recommendation-app-epgc2owv6kfuzccrvrygld.streamlit.app/)
+
